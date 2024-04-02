@@ -1,4 +1,4 @@
-#Adding a new art to the museum
+#Display of Payment Receipts for Purchasing Tickets
 from datetime import date
 from enum import Enum
 from typing import List
