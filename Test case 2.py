@@ -1,4 +1,4 @@
-#opening of a new exhibition at the louvreMuseum
+#opening of a new exxhibition at the louvreMuseum
 from datetime import date
 from enum import Enum
 from typing import List
