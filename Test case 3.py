@@ -1,4 +1,4 @@
-#Adding a new art to the museum
+#Purchase  tickets by an Individual or Tour Group for an Event
 from datetime import date
 from enum import Enum
 from typing import List
